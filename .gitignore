@@ -1,0 +1,7 @@
+#node packages
+
+node_modules/
+
+dist/
+
+libraries/
