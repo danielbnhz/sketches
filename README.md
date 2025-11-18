@@ -13,7 +13,7 @@ Steps to get functional
     git clone <repo-url>
 
 2. Install dependencies:
-    npm run dev
+    npm install
 
 3. Run the app:
 
